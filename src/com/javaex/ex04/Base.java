@@ -2,9 +2,15 @@ package com.javaex.ex04;
 
 public class Base {
     
-    public void service(String state) {
-        
-        //코드작성할것
+	//필드
+	
+	//생성자
+	
+	//메소드 - gs
+	
+	//메소드 - 일반
+	public void service(String state) {
+        System.out.println();
     }
 
     public void day() {
@@ -12,8 +18,7 @@ public class Base {
     }
 
     public void night() {
-        
-    	//코드작성할것
+    	System.out.println("밤에는 숙면");
     }
     
     public void afternoon(){
